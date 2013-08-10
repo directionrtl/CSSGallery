@@ -5,3 +5,5 @@ an image gallery made by CSS. it can be a good practice for css animation and cs
 
 you can see demo here:
 http://directionrtl.github.io/CSSGallery
+
+created by @pooyarm
