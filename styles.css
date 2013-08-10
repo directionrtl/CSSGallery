@@ -153,6 +153,11 @@ ul#gall > li:target .orig img{
 	height: auto;
 }
 
+/* align last image in row with right */
+ul#gall > li:target:nth-child(4n){
+	direction: rtl;
+}
+
 /* image caption */
 ul#gall > li:target .orig:after{
 	content: attr(title);
